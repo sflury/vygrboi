@@ -4,13 +4,13 @@
 
 ## The Palette
 
-<img width="936" alt="image" src="https://github.com/sflury/vygrboi/assets/42982705/3f8618ac-7448-4002-b9f4-913a9264a619">
+<img width="512" alt="image" src="https://github.com/sflury/vygrboi/assets/42982705/3f8618ac-7448-4002-b9f4-913a9264a619">
 
 ## Examples
 
 Cartoon model of Lyman continuum escape in a patchy interstellar medium (Flury+ 2024 in prep)
 
-<img width="675" alt="image" src="https://github.com/sflury/vygrboi/assets/42982705/77a65155-f804-488d-95b3-47bacbea6bd9">
+<img width="512" alt="image" src="https://github.com/sflury/vygrboi/assets/42982705/77a65155-f804-488d-95b3-47bacbea6bd9">
 
 ## Naming `vygrboi`
 
