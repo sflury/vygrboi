@@ -14,7 +14,7 @@ Cartoon model of Lyman continuum escape in a patchy interstellar medium (Flury+ 
 
 ## Naming `vygrboi`
 
-I am an avid Star Trek fan and grew up on the original series and movies. The name `vygrboi` is inspired in part by the entity known as V'ger from the first Star Trek movie and played a role in dictating the order of my `matplotlib` color cycler.
+I am an avid Star Trek fan and grew up on the original series and movies. The name `vygrboi` is inspired in part by the V'ger entity (vividly colorful itself) from the first Star Trek movie and played a role in dictating the order of my `matplotlib` color cycler.
 
 ## Included in this Repository
 
