@@ -18,4 +18,4 @@ I am an avid Star Trek fan and grew up on the original series and movies. The na
 
 ## Included in this Repository
 
-In addition to listing my hex codes, I have also provided my customized `matplotlib.rc` file. This file includes the `vygrboi` color cycler and improvements to visualization such as larger tick and axis labels, interior tick marks made longer, and cleaner subplot margins.
+In addition to listing my hex codes, I have also provided a customized `matplotlibrc` file named `matplotlibrc.vygrboi`. This file includes the `vygrboi` color cycler and improvements to visualization such as larger tick and axis labels, interior tick marks made longer, and cleaner subplot margins.
