@@ -1,6 +1,6 @@
 # vygrboi
 
-`vygrboi` is a custom color palette for data science visualization. I developed this scheme in an effort to create more aesthetic and vivid figures than facilitated by matplotlib defaults. Inspiration for the inital scheme came from discussions with my fiancee and a read through the [xkcd color survey](https://xkcd.com/color/rgb/). A critical element to this color scheme is testing for color-blind accessibility. I ran the scheme through [coolers.co](https://coolors.co/) and did some serious tweaking to make the scheme not only color-blind accessible but also black-white printer friendly. I generated the visual below using coolers and have included some examples where I have used `vygrboi` in my own work.
+`vygrboi` is a custom color palette for data science visualization. I developed this scheme in an effort to create more aesthetic and vivid figures than facilitated by matplotlib defaults. Inspiration for the inital scheme came from discussions with my fiancee and a read through the [xkcd color survey](https://xkcd.com/color/rgb/). A critical element to this color palette is testing for color-blind accessibility. I ran the palette through [coolers.co](https://coolors.co/) and did some serious tweaking to make the palette not only color-blind accessible but also black-white printer friendly. I generated the visual below using coolers and have included some examples where I have used `vygrboi` in my own work.
 
 ## The Palette
 
