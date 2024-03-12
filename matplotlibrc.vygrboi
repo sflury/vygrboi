@@ -102,7 +102,7 @@
 ## you if backend_fallback is True
 #backend_fallback: True
 
-interactive: True
+#interactive: True
 #figure.hooks:          # list of dotted.module.name:dotted.callable.name
 #toolbar:     toolbar2  # {None, toolbar2, toolmanager}
 #timezone:    UTC       # a pytz timezone string, e.g., US/Central or Europe/Paris
