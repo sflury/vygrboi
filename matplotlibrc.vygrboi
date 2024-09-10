@@ -410,7 +410,7 @@ axes.labelsize:     14  # font size of the x and y labels
 
 #axes.unicode_minus: True  # use Unicode for the minus symbol rather than hyphen.  See
                            # https://en.wikipedia.org/wiki/Plus_and_minus_signs#Character_codes
-axes.prop_cycle: cycler('color',['64008F','fdca40','2c755f','cb1f1f','219fff','d97b08','001e52'])
+axes.prop_cycle: cycler('color',['64008f','fdca40','08772f','ab0014','008cf7','da6600','001e52'])
                   # color cycle for plot lines as list of string color specs:
                   # single letter, long name, or web-style hex
                   # As opposed to all other parameters in this file, the color
