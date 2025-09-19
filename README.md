@@ -12,7 +12,7 @@ Cartoon model of Lyman continuum escape in a patchy interstellar medium (Flury+ 
 
 <img width="512" alt="image" src="https://github.com/sflury/vygrboi/assets/42982705/77a65155-f804-488d-95b3-47bacbea6bd9">
 
-Cartoon illustration of a spherically symmetric outflow (Flury 2025c)
+Contours of constant observed velocity (Flury 2025c) also known as isocontours or velocity surfaces
 
 <img width="456" height="331" alt="image" src="https://github.com/user-attachments/assets/32707da7-35f7-46f6-a363-3e6f491d3b00" />
 
